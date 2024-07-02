@@ -42,8 +42,6 @@ class MapGenerator {
 					g.setColor(Color.BLACK);
 					g.setFont(new Font("Baskerville", Font.BOLD, 10));
 					g.drawString("java mini-project", 300, 545);
-					g.setFont(new Font("Baskerville", Font.BOLD, 10));
-					g.drawString("1022265", 270, 560);
 				}
 			}
 		}
