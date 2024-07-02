@@ -1,6 +1,6 @@
-## Getting Started
+## BrickBreaker
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+BrickBreaker is a classic arcade game, implemented in Java. The objective of the game is to break all the bricks by bouncing a ball off a paddle controlled by the player.
 
 ## Folder Structure
 
